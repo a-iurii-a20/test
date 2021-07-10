@@ -3,3 +3,4 @@ new commit
 456
 789.
 New line
+new branch line
